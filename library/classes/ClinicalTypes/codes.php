@@ -160,9 +160,15 @@ class Codes
         Medication::RUBELLA_VAC => array(
             'CVX' => array( 3, 4, 6, 38, 94 )
         ),
-        Medication::ROTAVIRUS_VAC => array(
+    	Medication::ROTAVIRUS_VAC_2_DOSE => array(
+    		'CVX' => array( 119 )
+    	),
+        Medication::ROTAVIRUS_VAC_3_DOSE => array(
             'CVX' => array( 74, 116, 119, 122 )
         ),
+        Allergy::ROTAVIRUS_VAC => array(
+    		'CVX' => array( 74, 116, 119, 122 )
+    		),
         Medication::VZV => array(
             'CVX' => array( 21, 21 )
         ),

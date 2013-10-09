@@ -25,7 +25,7 @@ class Allergy extends ClinicalType
     const PNEUM_VAC = 'med_allergy_pneum_vac';
     const HEP_A_VAC = 'med_allergy_hep_a_vac';
     const HEP_B_VAC = 'med_allergy_hep_b_vac';
-    const ROTAVIRUS_VAC = 'med_allergy_rotavirus_vac';
+    const ROTAVIRUS_VAC = 'med_admin_rotavirus_vac';
     const INFLUENZA_VAC = 'med_allergy_flu_vac';
     const INFLUENZA_IMMUN = 'med_allergy_flu_immun';
     const EGGS = 'subst_allergy_eggs';
